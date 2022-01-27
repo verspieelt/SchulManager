@@ -2,7 +2,7 @@
 
 // use Config\Config;
 
-$Config = new Config\Config();
+$Config = new Config;
 
 ?>
 
