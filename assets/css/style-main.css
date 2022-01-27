@@ -1,0 +1,13 @@
+:root {
+    --white: white;
+    --text: rgb(182, 182, 182);
+    --bg: #323233;
+
+
+}
+
+
+.cd-content-wrapper {
+    background-color: var(--bg);
+    color: var(--text);
+}
