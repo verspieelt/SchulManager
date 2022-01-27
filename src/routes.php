@@ -4,7 +4,7 @@
 use Controller\SiteController;
 use Router\Route;
 
-$Config = new Config\Config();
+$Config = new Config\Config;
 $SiteController = new SiteController;
 
 Route::add('/', function () use($SiteController)  {
