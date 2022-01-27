@@ -1,10 +1,10 @@
 <?php
 
-use Config\Config;
+use Config\Config1;
 use Controller\SiteController;
 use Router\Route;
 
-$Config = new Config;
+$Config = new Config1;
 $SiteController = new SiteController;
 
 Route::add('/', function () use($SiteController)  {

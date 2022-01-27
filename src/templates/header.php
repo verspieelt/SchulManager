@@ -1,8 +1,8 @@
 <?php
 
-use Config\Config;
+use Config\Config1;
 
-$Config = new Config;
+$Config = new Config1;
 
 ?>
 
