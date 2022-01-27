@@ -2,6 +2,6 @@
 
 namespace Config;
 
-class Config1 {
+class Config {
     var $basepath = "/";
 }
