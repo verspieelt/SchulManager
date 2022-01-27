@@ -1,9 +1,5 @@
 <?php
-
-// use Config\Config;
-
 $Config = new Config;
-
 ?>
 
 <!DOCTYPE html>

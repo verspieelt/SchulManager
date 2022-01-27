@@ -1,9 +1,5 @@
 <?php
 
-// use Config\Config;
-use Controller\SiteController;
-use Router\Route;
-
 $Config = new Config;
 $SiteController = new SiteController;
 
